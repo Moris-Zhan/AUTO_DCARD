@@ -1,0 +1,810 @@
+2020-08-04 00:00:09 - DCARD - INFO: - logger已啟動
+2020-08-04 00:00:09 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 00:00:09 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 00:00:20 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 00:00:21 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/86ba2f31-cf0c-43b3-b48f-0cb761909495
+2020-08-04 00:00:21 - DCARD - INFO: - 國立高雄餐旅大學	-	旅館管理系 女同學
+2020-08-04 00:00:21 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 00:00:21 - DCARD - INFO: - create folder
+2020-08-04 00:06:27 - DCARD - INFO: - logger已啟動
+2020-08-04 00:06:27 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 00:06:27 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 00:06:38 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 00:06:39 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/86ba2f31-cf0c-43b3-b48f-0cb761909495
+2020-08-04 00:06:39 - DCARD - INFO: - 國立高雄餐旅大學	-	旅館管理系 女同學
+2020-08-04 00:06:39 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 00:14:30 - DCARD - INFO: - logger已啟動
+2020-08-04 00:14:30 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 00:14:30 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 00:14:41 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 00:14:42 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/86ba2f31-cf0c-43b3-b48f-0cb761909495
+2020-08-04 00:14:42 - DCARD - INFO: - 國立高雄餐旅大學	-	旅館管理系 女同學
+2020-08-04 00:14:42 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 00:16:35 - DCARD - INFO: - logger已啟動
+2020-08-04 00:16:35 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 00:16:35 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 00:16:46 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 00:16:47 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/86ba2f31-cf0c-43b3-b48f-0cb761909495
+2020-08-04 00:16:47 - DCARD - INFO: - 國立高雄餐旅大學	-	旅館管理系 女同學
+2020-08-04 00:16:47 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 00:19:05 - DCARD - INFO: - logger已啟動
+2020-08-04 00:19:05 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 00:19:05 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 00:19:16 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 00:19:17 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/86ba2f31-cf0c-43b3-b48f-0cb761909495
+2020-08-04 00:19:17 - DCARD - INFO: - 國立高雄餐旅大學	-	旅館管理系 女同學
+2020-08-04 00:19:17 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 00:20:24 - DCARD - INFO: - logger已啟動
+2020-08-04 00:20:24 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 00:20:24 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 00:20:35 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 00:20:35 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/86ba2f31-cf0c-43b3-b48f-0cb761909495
+2020-08-04 00:20:35 - DCARD - INFO: - 國立高雄餐旅大學	-	旅館管理系 女同學
+2020-08-04 00:20:35 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 00:21:52 - DCARD - INFO: - logger已啟動
+2020-08-04 00:21:52 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 00:21:52 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 00:22:04 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 00:22:05 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/86ba2f31-cf0c-43b3-b48f-0cb761909495
+2020-08-04 00:22:05 - DCARD - INFO: - 國立高雄餐旅大學	-	旅館管理系 女同學
+2020-08-04 00:22:05 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 00:25:09 - DCARD - INFO: - logger已啟動
+2020-08-04 00:25:09 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 00:25:09 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 00:25:20 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 00:25:27 - DCARD - ERROR: - (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, None), <traceback object at 0x0000013E9C0A8788>)
+2020-08-04 00:25:27 - DCARD - ERROR: - 231
+2020-08-04 00:25:27 - DCARD - ERROR: - Message: 
+
+2020-08-04 00:25:37 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 00:25:39 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/86ba2f31-cf0c-43b3-b48f-0cb761909495
+2020-08-04 00:25:39 - DCARD - INFO: - 國立高雄餐旅大學	-	旅館管理系 女同學
+2020-08-04 00:25:39 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 00:26:18 - DCARD - ERROR: - 128
+2020-08-04 00:26:18 - DCARD - ERROR: - OpenCV(4.1.0) C:\projects\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:726: error: (-215:Assertion failed) !buf.empty() && buf.isContinuous() in function 'cv::imdecode_'
+
+2020-08-04 00:28:53 - DCARD - INFO: - logger已啟動
+2020-08-04 00:28:53 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 00:28:53 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 00:29:04 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 00:29:05 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/86ba2f31-cf0c-43b3-b48f-0cb761909495
+2020-08-04 00:29:05 - DCARD - INFO: - 國立高雄餐旅大學	-	旅館管理系 女同學
+2020-08-04 00:29:05 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 00:32:17 - DCARD - INFO: - logger已啟動
+2020-08-04 00:32:17 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 00:32:17 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 00:32:27 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 00:32:28 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/86ba2f31-cf0c-43b3-b48f-0cb761909495
+2020-08-04 00:32:28 - DCARD - INFO: - 國立高雄餐旅大學	-	旅館管理系 女同學
+2020-08-04 00:32:28 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 00:33:37 - DCARD - INFO: - logger已啟動
+2020-08-04 00:33:37 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 00:33:37 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 00:33:48 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 00:33:49 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/86ba2f31-cf0c-43b3-b48f-0cb761909495
+2020-08-04 00:33:49 - DCARD - INFO: - 國立高雄餐旅大學	-	旅館管理系 女同學
+2020-08-04 00:33:49 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 00:34:17 - DCARD - INFO: - 已重複抽卡
+2020-08-04 00:34:21 - DCARD - ERROR: - (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, None), <traceback object at 0x000001FFE0CCFF48>)
+2020-08-04 00:34:21 - DCARD - ERROR: - 297
+2020-08-04 00:34:21 - DCARD - ERROR: - Message: 
+
+2020-08-04 00:40:18 - DCARD - INFO: - logger已啟動
+2020-08-04 00:40:18 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 00:40:18 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 00:40:30 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 00:40:30 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/86ba2f31-cf0c-43b3-b48f-0cb761909495
+2020-08-04 00:40:30 - DCARD - INFO: - 國立高雄餐旅大學	-	旅館管理系 女同學
+2020-08-04 00:40:30 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 00:42:10 - DCARD - INFO: - logger已啟動
+2020-08-04 00:42:10 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 00:42:10 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 00:42:21 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 00:42:22 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/86ba2f31-cf0c-43b3-b48f-0cb761909495
+2020-08-04 00:42:22 - DCARD - INFO: - 國立高雄餐旅大學	-	旅館管理系 女同學
+2020-08-04 00:42:22 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 00:47:00 - DCARD - INFO: - logger已啟動
+2020-08-04 00:47:00 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 00:47:00 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 00:47:11 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 00:47:12 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/86ba2f31-cf0c-43b3-b48f-0cb761909495
+2020-08-04 00:47:12 - DCARD - INFO: - 國立高雄餐旅大學	-	旅館管理系 女同學
+2020-08-04 00:47:12 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 00:58:29 - DCARD - INFO: - logger已啟動
+2020-08-04 00:58:29 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 00:58:29 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 00:58:41 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 00:58:42 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/86ba2f31-cf0c-43b3-b48f-0cb761909495
+2020-08-04 00:58:42 - DCARD - INFO: - 國立高雄餐旅大學	-	旅館管理系 女同學
+2020-08-04 00:58:42 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 01:05:17 - DCARD - INFO: - logger已啟動
+2020-08-04 01:05:17 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 01:05:17 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 01:05:28 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 01:05:29 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/86ba2f31-cf0c-43b3-b48f-0cb761909495
+2020-08-04 01:05:29 - DCARD - INFO: - 國立高雄餐旅大學	-	旅館管理系 女同學
+2020-08-04 01:05:29 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 01:06:18 - DCARD - INFO: - logger已啟動
+2020-08-04 01:06:18 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 01:06:18 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 01:06:30 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 01:06:31 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/86ba2f31-cf0c-43b3-b48f-0cb761909495
+2020-08-04 01:06:31 - DCARD - INFO: - 國立高雄餐旅大學	-	旅館管理系 女同學
+2020-08-04 01:06:31 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 10:23:49 - DCARD - INFO: - logger已啟動
+2020-08-04 10:23:49 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 10:23:49 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 10:24:00 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 10:24:00 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/86ba2f31-cf0c-43b3-b48f-0cb761909495
+2020-08-04 10:24:00 - DCARD - INFO: - 國立高雄餐旅大學	-	旅館管理系 女同學
+2020-08-04 10:24:00 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 10:24:02 - DCARD - ERROR: - 145
+2020-08-04 10:24:02 - DCARD - ERROR: - Only know how to handle extensions: ['png']; with Pillow installed matplotlib can handle more images
+2020-08-04 10:24:07 - DCARD - ERROR: - (<class 'TypeError'>, TypeError("'NoneType' object is not iterable",), <traceback object at 0x000001D53C295B48>)
+2020-08-04 10:24:07 - DCARD - ERROR: - 262
+2020-08-04 10:24:07 - DCARD - ERROR: - 'NoneType' object is not iterable
+2020-08-04 10:24:18 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 10:24:19 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/86ba2f31-cf0c-43b3-b48f-0cb761909495
+2020-08-04 10:24:19 - DCARD - INFO: - 國立高雄餐旅大學	-	旅館管理系 女同學
+2020-08-04 10:24:19 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 10:24:19 - DCARD - ERROR: - 145
+2020-08-04 10:24:19 - DCARD - ERROR: - Only know how to handle extensions: ['png']; with Pillow installed matplotlib can handle more images
+2020-08-04 10:24:23 - DCARD - ERROR: - (<class 'TypeError'>, TypeError("'NoneType' object is not iterable",), <traceback object at 0x000001D53C2B2CC8>)
+2020-08-04 10:24:23 - DCARD - ERROR: - 262
+2020-08-04 10:24:23 - DCARD - ERROR: - 'NoneType' object is not iterable
+2020-08-04 10:24:34 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 10:24:35 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/86ba2f31-cf0c-43b3-b48f-0cb761909495
+2020-08-04 10:24:35 - DCARD - INFO: - 國立高雄餐旅大學	-	旅館管理系 女同學
+2020-08-04 10:24:35 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 10:24:37 - DCARD - ERROR: - 145
+2020-08-04 10:24:37 - DCARD - ERROR: - Only know how to handle extensions: ['png']; with Pillow installed matplotlib can handle more images
+2020-08-04 10:24:42 - DCARD - ERROR: - (<class 'TypeError'>, TypeError("'NoneType' object is not iterable",), <traceback object at 0x000001D53C2ADEC8>)
+2020-08-04 10:24:42 - DCARD - ERROR: - 262
+2020-08-04 10:24:42 - DCARD - ERROR: - 'NoneType' object is not iterable
+2020-08-04 10:24:53 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 10:24:54 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/86ba2f31-cf0c-43b3-b48f-0cb761909495
+2020-08-04 10:24:54 - DCARD - INFO: - 國立高雄餐旅大學	-	旅館管理系 女同學
+2020-08-04 10:24:54 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 10:24:54 - DCARD - ERROR: - 145
+2020-08-04 10:24:54 - DCARD - ERROR: - Only know how to handle extensions: ['png']; with Pillow installed matplotlib can handle more images
+2020-08-04 10:24:55 - DCARD - ERROR: - (<class 'TypeError'>, TypeError("'NoneType' object is not iterable",), <traceback object at 0x000001D53C2F8148>)
+2020-08-04 10:24:55 - DCARD - ERROR: - 262
+2020-08-04 10:24:55 - DCARD - ERROR: - 'NoneType' object is not iterable
+2020-08-04 10:25:05 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 10:25:06 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/86ba2f31-cf0c-43b3-b48f-0cb761909495
+2020-08-04 10:25:06 - DCARD - INFO: - 國立高雄餐旅大學	-	旅館管理系 女同學
+2020-08-04 10:25:06 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 10:25:06 - DCARD - ERROR: - 145
+2020-08-04 10:25:06 - DCARD - ERROR: - Only know how to handle extensions: ['png']; with Pillow installed matplotlib can handle more images
+2020-08-04 10:25:10 - DCARD - ERROR: - (<class 'TypeError'>, TypeError("'NoneType' object is not iterable",), <traceback object at 0x000001D53C2BCC08>)
+2020-08-04 10:25:10 - DCARD - ERROR: - 262
+2020-08-04 10:25:10 - DCARD - ERROR: - 'NoneType' object is not iterable
+2020-08-04 10:25:22 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 10:25:30 - DCARD - ERROR: - (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, None), <traceback object at 0x000001D53C30EC08>)
+2020-08-04 10:25:30 - DCARD - ERROR: - 241
+2020-08-04 10:25:30 - DCARD - ERROR: - Message: 
+
+2020-08-04 10:25:40 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 10:25:41 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/86ba2f31-cf0c-43b3-b48f-0cb761909495
+2020-08-04 10:25:41 - DCARD - INFO: - 國立高雄餐旅大學	-	旅館管理系 女同學
+2020-08-04 10:25:41 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 10:25:45 - DCARD - ERROR: - 145
+2020-08-04 10:25:45 - DCARD - ERROR: - Only know how to handle extensions: ['png']; with Pillow installed matplotlib can handle more images
+2020-08-04 10:25:50 - DCARD - ERROR: - (<class 'TypeError'>, TypeError("'NoneType' object is not iterable",), <traceback object at 0x000001D53C33A888>)
+2020-08-04 10:25:50 - DCARD - ERROR: - 262
+2020-08-04 10:25:50 - DCARD - ERROR: - 'NoneType' object is not iterable
+2020-08-04 10:26:32 - DCARD - INFO: - logger已啟動
+2020-08-04 10:26:32 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 10:26:32 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 10:26:43 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 10:26:43 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/86ba2f31-cf0c-43b3-b48f-0cb761909495
+2020-08-04 10:26:43 - DCARD - INFO: - 國立高雄餐旅大學	-	旅館管理系 女同學
+2020-08-04 10:26:43 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 10:32:55 - DCARD - INFO: - logger已啟動
+2020-08-04 10:32:55 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 10:32:55 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 10:33:06 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 10:33:06 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/86ba2f31-cf0c-43b3-b48f-0cb761909495
+2020-08-04 10:33:07 - DCARD - INFO: - 國立高雄餐旅大學	-	旅館管理系 女同學
+2020-08-04 10:33:07 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 10:33:50 - DCARD - INFO: - 已重複抽卡
+2020-08-04 10:34:58 - DCARD - INFO: - logger已啟動
+2020-08-04 10:34:58 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 10:34:58 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 10:35:09 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 10:35:09 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/86ba2f31-cf0c-43b3-b48f-0cb761909495
+2020-08-04 10:35:09 - DCARD - INFO: - 國立高雄餐旅大學	-	旅館管理系 女同學
+2020-08-04 10:35:09 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 10:38:51 - DCARD - INFO: - logger已啟動
+2020-08-04 10:38:51 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 10:38:51 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 10:39:01 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 10:39:02 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/86ba2f31-cf0c-43b3-b48f-0cb761909495
+2020-08-04 10:39:02 - DCARD - INFO: - 國立高雄餐旅大學	-	旅館管理系 女同學
+2020-08-04 10:39:02 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 10:39:14 - DCARD - ERROR: - 146
+2020-08-04 10:39:30 - DCARD - ERROR: - module 'matplotlib.image' has no attribute 'show'
+2020-08-04 10:41:58 - DCARD - INFO: - logger已啟動
+2020-08-04 10:41:58 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 10:41:58 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 10:42:08 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 10:42:09 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/86ba2f31-cf0c-43b3-b48f-0cb761909495
+2020-08-04 10:42:09 - DCARD - INFO: - 國立高雄餐旅大學	-	旅館管理系 女同學
+2020-08-04 10:42:09 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 10:43:31 - DCARD - INFO: - logger已啟動
+2020-08-04 10:43:31 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 10:43:31 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 10:43:41 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 10:43:42 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/86ba2f31-cf0c-43b3-b48f-0cb761909495
+2020-08-04 10:43:42 - DCARD - INFO: - 國立高雄餐旅大學	-	旅館管理系 女同學
+2020-08-04 10:43:42 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 10:52:16 - DCARD - INFO: - logger已啟動
+2020-08-04 10:52:16 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 10:52:16 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 10:52:26 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 10:52:27 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/86ba2f31-cf0c-43b3-b48f-0cb761909495
+2020-08-04 10:52:27 - DCARD - INFO: - 國立高雄餐旅大學	-	旅館管理系 女同學
+2020-08-04 10:52:27 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 11:00:28 - DCARD - INFO: - logger已啟動
+2020-08-04 11:00:28 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 11:00:28 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 11:00:38 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 11:00:39 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/86ba2f31-cf0c-43b3-b48f-0cb761909495
+2020-08-04 11:00:39 - DCARD - INFO: - 國立高雄餐旅大學	-	旅館管理系 女同學
+2020-08-04 11:00:39 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 11:02:45 - DCARD - INFO: - logger已啟動
+2020-08-04 11:02:45 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 11:02:45 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 11:02:55 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 11:02:56 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/86ba2f31-cf0c-43b3-b48f-0cb761909495
+2020-08-04 11:02:56 - DCARD - INFO: - 國立高雄餐旅大學	-	旅館管理系 女同學
+2020-08-04 11:02:56 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 11:04:56 - DCARD - INFO: - logger已啟動
+2020-08-04 11:04:56 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 11:04:56 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 11:05:07 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 11:05:07 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/86ba2f31-cf0c-43b3-b48f-0cb761909495
+2020-08-04 11:05:07 - DCARD - INFO: - 國立高雄餐旅大學	-	旅館管理系 女同學
+2020-08-04 11:05:07 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 11:07:53 - DCARD - INFO: - logger已啟動
+2020-08-04 11:07:53 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 11:07:53 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 11:08:04 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 11:08:11 - DCARD - ERROR: - (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, None), <traceback object at 0x000002251B8BEF48>)
+2020-08-04 11:08:11 - DCARD - ERROR: - 232
+2020-08-04 11:08:11 - DCARD - ERROR: - Message: 
+
+2020-08-04 11:08:22 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 11:08:22 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/86ba2f31-cf0c-43b3-b48f-0cb761909495
+2020-08-04 11:08:22 - DCARD - INFO: - 國立高雄餐旅大學	-	旅館管理系 女同學
+2020-08-04 11:08:22 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 11:09:21 - DCARD - INFO: - logger已啟動
+2020-08-04 11:09:21 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 11:09:21 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 11:09:31 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 11:09:32 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 11:09:32 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 11:09:32 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 11:13:09 - DCARD - INFO: - logger已啟動
+2020-08-04 11:13:09 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 11:13:09 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 11:13:19 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 11:13:20 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 11:13:20 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 11:13:20 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 11:15:05 - DCARD - INFO: - logger已啟動
+2020-08-04 11:15:05 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 11:15:05 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 11:15:15 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 11:15:16 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 11:15:16 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 11:15:16 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 11:16:46 - DCARD - INFO: - logger已啟動
+2020-08-04 11:16:46 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 11:16:46 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 11:16:56 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 11:16:56 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 11:16:56 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 11:16:56 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 11:20:11 - DCARD - INFO: - logger已啟動
+2020-08-04 11:20:11 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 11:20:11 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 11:20:21 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 11:20:22 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 11:20:22 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 11:20:22 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 11:22:35 - DCARD - INFO: - Predict Score : 59.298834800720215
+2020-08-04 11:26:20 - DCARD - INFO: - logger已啟動
+2020-08-04 11:26:20 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 11:26:20 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 11:26:30 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 11:26:31 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 11:26:31 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 11:26:31 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 11:27:14 - DCARD - INFO: - Predict Score : 59.298834800720215
+2020-08-04 11:27:56 - DCARD - INFO: - 已送出邀請
+2020-08-04 11:30:03 - DCARD - ERROR: - (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, None), <traceback object at 0x00000282A2270508>)
+2020-08-04 11:30:03 - DCARD - ERROR: - 294
+2020-08-04 11:30:03 - DCARD - ERROR: - Message: 
+
+2020-08-04 11:31:11 - DCARD - INFO: - logger已啟動
+2020-08-04 11:31:11 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 11:31:11 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 11:31:22 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 11:31:22 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 11:31:22 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 11:31:22 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 11:32:06 - DCARD - INFO: - Predict Score : 59.298834800720215
+2020-08-04 11:33:10 - DCARD - INFO: - 已重複抽卡
+2020-08-04 11:35:03 - DCARD - INFO: - logger已啟動
+2020-08-04 11:35:03 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 11:35:03 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 11:35:14 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 11:35:21 - DCARD - ERROR: - (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, None), <traceback object at 0x000001C30C298308>)
+2020-08-04 11:35:21 - DCARD - ERROR: - 234
+2020-08-04 11:35:21 - DCARD - ERROR: - Message: 
+
+2020-08-04 11:35:31 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 11:35:32 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 11:35:32 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 11:35:32 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 11:36:18 - DCARD - INFO: - Predict Score : 59.298834800720215
+2020-08-04 11:36:19 - DCARD - INFO: - 已重複抽卡
+2020-08-04 12:00:02 - DCARD - INFO: - logger已啟動
+2020-08-04 12:00:02 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 12:00:02 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 12:00:12 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 12:00:12 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 12:00:12 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 12:00:12 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 12:01:00 - DCARD - INFO: - Predict Score : 59.298834800720215
+2020-08-04 12:01:01 - DCARD - INFO: - 已重複抽卡
+2020-08-04 12:03:29 - DCARD - INFO: - logger已啟動
+2020-08-04 12:03:29 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 12:03:29 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 12:03:39 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 12:03:40 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 12:03:40 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 12:03:40 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 12:04:24 - DCARD - INFO: - Predict Score : 59.298834800720215
+2020-08-04 12:04:25 - DCARD - INFO: - 已重複抽卡
+2020-08-04 12:06:13 - DCARD - INFO: - logger已啟動
+2020-08-04 12:06:13 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 12:06:13 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 12:06:24 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 12:06:24 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 12:06:24 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 12:06:24 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 12:07:08 - DCARD - INFO: - Predict Score : 59.298834800720215
+2020-08-04 12:07:09 - DCARD - INFO: - 已重複抽卡
+2020-08-04 12:09:55 - DCARD - INFO: - logger已啟動
+2020-08-04 12:09:55 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 12:09:55 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 12:10:04 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 12:10:05 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 12:10:05 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 12:10:05 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 12:10:49 - DCARD - INFO: - Predict Score : 59.298834800720215
+2020-08-04 12:10:50 - DCARD - INFO: - 已重複抽卡
+2020-08-04 12:14:48 - DCARD - INFO: - logger已啟動
+2020-08-04 12:14:48 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 12:14:48 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 12:14:59 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 12:14:59 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 12:14:59 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 12:14:59 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 12:15:43 - DCARD - INFO: - Predict Score : 59.298834800720215
+2020-08-04 12:15:44 - DCARD - INFO: - 已重複抽卡
+2020-08-04 12:17:37 - DCARD - INFO: - 無新卡友
+2020-08-04 12:17:46 - DCARD - INFO: - 切至收件閘
+2020-08-04 12:19:22 - DCARD - INFO: - logger已啟動
+2020-08-04 12:19:22 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 12:19:22 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 12:19:33 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 12:19:33 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 12:19:33 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 12:19:33 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 12:20:17 - DCARD - INFO: - Predict Score : 59.298834800720215
+2020-08-04 12:20:18 - DCARD - INFO: - 已重複抽卡
+2020-08-04 12:20:20 - DCARD - INFO: - 無新卡友
+2020-08-04 12:21:35 - DCARD - INFO: - logger已啟動
+2020-08-04 12:21:35 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 12:21:35 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 12:21:45 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 12:21:46 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 12:21:46 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 12:21:46 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 12:22:30 - DCARD - INFO: - Predict Score : 59.298834800720215
+2020-08-04 12:22:31 - DCARD - INFO: - 已重複抽卡
+2020-08-04 12:22:32 - DCARD - INFO: - 無新卡友
+2020-08-04 12:22:49 - DCARD - INFO: - 切至收件閘
+2020-08-04 12:24:34 - DCARD - INFO: - logger已啟動
+2020-08-04 12:24:34 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 12:24:34 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 12:24:44 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 12:24:45 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 12:24:45 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 12:24:45 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 12:25:29 - DCARD - INFO: - Predict Score : 59.298834800720215
+2020-08-04 12:25:30 - DCARD - INFO: - 已重複抽卡
+2020-08-04 12:25:34 - DCARD - ERROR: - (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, None), <traceback object at 0x0000017873E37E48>)
+2020-08-04 12:25:34 - DCARD - ERROR: - 299
+2020-08-04 12:25:34 - DCARD - ERROR: - Message: 
+
+2020-08-04 12:25:44 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 12:25:45 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 12:25:45 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 12:25:45 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 12:26:40 - DCARD - INFO: - Predict Score : 59.298834800720215
+2020-08-04 12:26:41 - DCARD - INFO: - 已重複抽卡
+2020-08-04 12:26:49 - DCARD - ERROR: - (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, None), <traceback object at 0x000001787411BE88>)
+2020-08-04 12:26:49 - DCARD - ERROR: - 299
+2020-08-04 12:26:49 - DCARD - ERROR: - Message: 
+
+2020-08-04 12:26:59 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 12:27:00 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 12:27:00 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 12:27:00 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 12:28:10 - DCARD - INFO: - Predict Score : 59.298834800720215
+2020-08-04 12:28:12 - DCARD - INFO: - 已重複抽卡
+2020-08-04 12:28:53 - DCARD - ERROR: - (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, None), <traceback object at 0x000001787497EC48>)
+2020-08-04 12:28:53 - DCARD - ERROR: - 299
+2020-08-04 12:29:19 - DCARD - INFO: - logger已啟動
+2020-08-04 12:29:19 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 12:29:19 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 12:29:30 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 12:29:30 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 12:29:30 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 12:29:30 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 12:30:14 - DCARD - INFO: - Predict Score : 59.298834800720215
+2020-08-04 12:30:15 - DCARD - INFO: - 已重複抽卡
+2020-08-04 12:31:35 - DCARD - INFO: - logger已啟動
+2020-08-04 12:31:35 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 12:31:35 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 12:31:46 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 12:31:46 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 12:31:46 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 12:31:46 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 12:32:39 - DCARD - INFO: - Predict Score : 59.298834800720215
+2020-08-04 12:32:40 - DCARD - INFO: - 已重複抽卡
+2020-08-04 12:34:25 - DCARD - ERROR: - (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, None), <traceback object at 0x000001F340488E08>)
+2020-08-04 12:34:25 - DCARD - ERROR: - 299
+2020-08-04 12:34:25 - DCARD - ERROR: - Message: 
+
+2020-08-04 14:22:25 - DCARD - INFO: - logger已啟動
+2020-08-04 14:22:25 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 14:22:25 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 14:22:36 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 14:22:37 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 14:22:37 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 14:22:37 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 14:23:36 - DCARD - INFO: - Predict Score : 59.298834800720215
+2020-08-04 14:23:37 - DCARD - INFO: - 已重複抽卡
+2020-08-04 14:24:19 - DCARD - INFO: - 無新卡友
+2020-08-04 14:24:19 - DCARD - INFO: - 切至收件閘
+2020-08-04 14:27:00 - DCARD - INFO: - logger已啟動
+2020-08-04 14:27:00 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 14:27:00 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 14:27:10 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 14:27:11 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 14:27:11 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 14:27:11 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 14:27:54 - DCARD - INFO: - Predict Score : 59.298834800720215
+2020-08-04 14:27:55 - DCARD - INFO: - 已重複抽卡
+2020-08-04 14:28:04 - DCARD - ERROR: - (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, None), <traceback object at 0x00000200273545C8>)
+2020-08-04 14:28:04 - DCARD - ERROR: - 299
+2020-08-04 14:28:04 - DCARD - ERROR: - Message: 
+
+2020-08-04 14:28:14 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 14:28:31 - DCARD - INFO: - logger已啟動
+2020-08-04 14:28:31 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 14:28:31 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 14:28:42 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 14:28:42 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 14:28:42 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 14:28:42 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 14:29:35 - DCARD - INFO: - Predict Score : 59.298834800720215
+2020-08-04 14:29:36 - DCARD - INFO: - 已重複抽卡
+2020-08-04 14:29:44 - DCARD - INFO: - 無新卡友
+2020-08-04 14:29:44 - DCARD - INFO: - 切至收件閘
+2020-08-04 14:32:27 - DCARD - INFO: - logger已啟動
+2020-08-04 14:32:27 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 14:32:27 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 14:33:23 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 14:33:24 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 14:33:24 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 14:33:24 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 14:34:30 - DCARD - INFO: - Predict Score : 59.298834800720215
+2020-08-04 14:34:31 - DCARD - INFO: - 已重複抽卡
+2020-08-04 14:34:42 - DCARD - INFO: - 無新卡友
+2020-08-04 14:34:42 - DCARD - INFO: - 切至收件閘
+2020-08-04 14:35:42 - DCARD - INFO: - 發送email
+2020-08-04 14:37:07 - DCARD - INFO: - logger已啟動
+2020-08-04 14:37:07 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 14:37:07 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 14:37:25 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 14:37:32 - DCARD - ERROR: - (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, None), <traceback object at 0x000001ABC17501C8>)
+2020-08-04 14:37:32 - DCARD - ERROR: - 234
+2020-08-04 14:37:32 - DCARD - ERROR: - Message: 
+
+2020-08-04 14:37:44 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 14:37:52 - DCARD - ERROR: - (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, None), <traceback object at 0x000001ABC17628C8>)
+2020-08-04 14:37:52 - DCARD - ERROR: - 234
+2020-08-04 14:37:52 - DCARD - ERROR: - Message: 
+
+2020-08-04 14:38:10 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 14:38:17 - DCARD - ERROR: - (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, None), <traceback object at 0x000001ABC1762EC8>)
+2020-08-04 14:38:17 - DCARD - ERROR: - 234
+2020-08-04 14:38:17 - DCARD - ERROR: - Message: 
+
+2020-08-04 14:38:43 - DCARD - INFO: - logger已啟動
+2020-08-04 14:38:43 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 14:38:43 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 14:38:57 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 14:39:11 - DCARD - ERROR: - (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, None), <traceback object at 0x000001F70507D848>)
+2020-08-04 14:39:11 - DCARD - ERROR: - 234
+2020-08-04 14:39:11 - DCARD - ERROR: - Message: 
+
+2020-08-04 14:39:25 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 14:39:40 - DCARD - ERROR: - (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, None), <traceback object at 0x000001F705092BC8>)
+2020-08-04 14:39:40 - DCARD - ERROR: - 234
+2020-08-04 14:39:40 - DCARD - ERROR: - Message: 
+
+2020-08-04 14:39:53 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 14:40:09 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 14:40:09 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 14:40:09 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 14:41:09 - DCARD - INFO: - Predict Score : 59.298834800720215
+2020-08-04 14:41:10 - DCARD - INFO: - 已重複抽卡
+2020-08-04 14:41:23 - DCARD - ERROR: - (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, None), <traceback object at 0x000001F7050BD148>)
+2020-08-04 14:41:23 - DCARD - ERROR: - 299
+2020-08-04 14:41:23 - DCARD - ERROR: - Message: 
+
+2020-08-04 14:41:36 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 14:41:50 - DCARD - ERROR: - (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, None), <traceback object at 0x000001F7050D4648>)
+2020-08-04 14:41:50 - DCARD - ERROR: - 234
+2020-08-04 14:41:50 - DCARD - ERROR: - Message: 
+
+2020-08-04 14:42:03 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 14:42:04 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 14:42:04 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 14:42:04 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 14:42:40 - DCARD - INFO: - logger已啟動
+2020-08-04 14:42:40 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 14:42:40 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 14:44:08 - DCARD - INFO: - logger已啟動
+2020-08-04 14:44:08 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 14:44:08 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 14:45:16 - DCARD - INFO: - logger已啟動
+2020-08-04 14:45:16 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 14:45:16 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 14:45:27 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 14:45:28 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 14:45:28 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 14:45:28 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 14:46:24 - DCARD - INFO: - Predict Score : 59.298834800720215
+2020-08-04 14:46:25 - DCARD - INFO: - 已重複抽卡
+2020-08-04 14:46:46 - DCARD - INFO: - 無新卡友
+2020-08-04 14:46:47 - DCARD - INFO: - 切至收件閘
+2020-08-04 14:47:06 - DCARD - INFO: - 發送email
+2020-08-04 14:47:54 - DCARD - ERROR: - (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials bv17sm1410130pjb.0 - gsmtp')
+2020-08-04 14:49:27 - DCARD - INFO: - logger已啟動
+2020-08-04 14:49:27 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 14:49:27 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 14:49:39 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 14:49:53 - DCARD - ERROR: - (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, None), <traceback object at 0x00000178186CE5C8>)
+2020-08-04 14:49:53 - DCARD - ERROR: - 234
+2020-08-04 14:49:53 - DCARD - ERROR: - Message: 
+
+2020-08-04 14:50:05 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 14:50:20 - DCARD - ERROR: - (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, None), <traceback object at 0x00000178186E3B88>)
+2020-08-04 14:50:20 - DCARD - ERROR: - 234
+2020-08-04 14:50:20 - DCARD - ERROR: - Message: 
+
+2020-08-04 14:50:31 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 14:50:32 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 14:50:32 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 14:50:32 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 14:51:29 - DCARD - INFO: - Predict Score : 59.298834800720215
+2020-08-04 14:51:30 - DCARD - INFO: - 已重複抽卡
+2020-08-04 14:51:33 - DCARD - INFO: - 無新卡友
+2020-08-04 14:51:33 - DCARD - INFO: - 切至收件閘
+2020-08-04 14:51:45 - DCARD - INFO: - 發送email
+2020-08-04 14:52:02 - DCARD - INFO: - Send mails to afly.bsky@yahoo.com.tw
+2020-08-04 14:52:04 - DCARD - INFO: - 寄信成功
+2020-08-04 14:52:23 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 14:52:37 - DCARD - ERROR: - (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, None), <traceback object at 0x0000017818432C08>)
+2020-08-04 14:52:37 - DCARD - ERROR: - 234
+2020-08-04 14:52:37 - DCARD - ERROR: - Message: 
+
+2020-08-04 14:52:49 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 14:53:04 - DCARD - ERROR: - (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, None), <traceback object at 0x0000017819029448>)
+2020-08-04 14:53:04 - DCARD - ERROR: - 234
+2020-08-04 14:53:04 - DCARD - ERROR: - Message: 
+
+2020-08-04 14:53:15 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 14:55:11 - DCARD - INFO: - logger已啟動
+2020-08-04 14:55:11 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 14:55:11 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 14:55:22 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 14:55:23 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 14:55:23 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 14:55:23 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 14:56:15 - DCARD - INFO: - Predict Score : 59.298834800720215
+2020-08-04 14:56:16 - DCARD - INFO: - 已重複抽卡
+2020-08-04 14:56:20 - DCARD - INFO: - 無新卡友
+2020-08-04 14:56:20 - DCARD - INFO: - 切至收件閘
+2020-08-04 14:56:48 - DCARD - INFO: - 發送email
+2020-08-04 14:57:29 - DCARD - INFO: - logger已啟動
+2020-08-04 14:57:29 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 14:57:29 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 14:57:52 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 14:57:53 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 14:57:53 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 14:57:53 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 14:58:46 - DCARD - INFO: - Predict Score : 59.298834800720215
+2020-08-04 14:58:47 - DCARD - INFO: - 已重複抽卡
+2020-08-04 14:58:50 - DCARD - INFO: - 無新卡友
+2020-08-04 14:58:50 - DCARD - INFO: - 切至收件閘
+2020-08-04 14:59:02 - DCARD - INFO: - 發送email
+2020-08-04 14:59:14 - DCARD - INFO: - Send mails to afly.bsky@yahoo.com.tw
+2020-08-04 14:59:16 - DCARD - INFO: - 寄信成功
+2020-08-04 15:00:03 - DCARD - INFO: - logger已啟動
+2020-08-04 15:00:03 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 15:00:03 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 15:00:16 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 15:00:17 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 15:00:17 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 15:00:17 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 15:01:03 - DCARD - INFO: - Predict Score : 59.298834800720215
+2020-08-04 15:01:05 - DCARD - INFO: - 已重複抽卡
+2020-08-04 15:01:08 - DCARD - INFO: - 無新卡友
+2020-08-04 15:01:08 - DCARD - INFO: - 切至收件閘
+2020-08-04 15:05:55 - DCARD - INFO: - logger已啟動
+2020-08-04 15:05:55 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 15:05:55 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 15:06:07 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 15:06:22 - DCARD - ERROR: - (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, None), <traceback object at 0x00000228C57515C8>)
+2020-08-04 15:06:22 - DCARD - ERROR: - 234
+2020-08-04 15:06:22 - DCARD - ERROR: - Message: 
+
+2020-08-04 15:06:39 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 15:06:39 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 15:06:39 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 15:06:39 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 15:07:30 - DCARD - INFO: - Predict Score : 59.298834800720215
+2020-08-04 15:07:31 - DCARD - INFO: - 已重複抽卡
+2020-08-04 15:07:44 - DCARD - ERROR: - (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, None), <traceback object at 0x00000228C5450588>)
+2020-08-04 15:07:44 - DCARD - ERROR: - 299
+2020-08-04 15:07:44 - DCARD - ERROR: - Message: 
+
+2020-08-04 15:07:57 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 15:07:58 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 15:07:58 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 15:07:58 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 15:09:09 - DCARD - INFO: - Predict Score : 59.298834800720215
+2020-08-04 15:09:10 - DCARD - INFO: - 已重複抽卡
+2020-08-04 15:09:14 - DCARD - INFO: - 無新卡友
+2020-08-04 15:09:14 - DCARD - INFO: - 切至收件閘
+2020-08-04 15:09:15 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/ef68dbd8-437d-4ffb-b156-1763c9855088
+2020-08-04 15:09:54 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/61a88e23-d968-462a-8808-f0043dbdb653
+2020-08-04 15:09:55 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/8350cd9f-8261-41ed-a926-5e2670b5b660
+2020-08-04 15:09:55 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/966fc1c4-fcd1-4404-b4b1-82853efbc13a
+2020-08-04 15:10:02 - DCARD - INFO: - 發送email
+2020-08-04 15:10:05 - DCARD - INFO: - Send mails to afly.bsky@yahoo.com.tw
+2020-08-04 15:10:05 - DCARD - INFO: - 寄信成功
+2020-08-04 15:10:19 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 15:10:33 - DCARD - ERROR: - (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, None), <traceback object at 0x00000228C579B908>)
+2020-08-04 15:10:33 - DCARD - ERROR: - 234
+2020-08-04 15:10:33 - DCARD - ERROR: - Message: 
+
+2020-08-04 15:10:45 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 15:43:30 - DCARD - INFO: - logger已啟動
+2020-08-04 15:43:30 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 15:43:30 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 15:43:42 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 15:43:42 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 15:43:42 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 15:43:42 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 15:51:31 - DCARD - INFO: - logger已啟動
+2020-08-04 15:51:31 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 15:51:31 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 15:51:42 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 15:51:43 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 15:51:43 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 15:51:43 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 15:52:31 - DCARD - INFO: - Predict Score : 59.298834800720215
+2020-08-04 15:52:32 - DCARD - INFO: - 已重複抽卡
+2020-08-04 15:52:36 - DCARD - INFO: - 無新卡友
+2020-08-04 15:52:36 - DCARD - INFO: - 切至收件閘
+2020-08-04 15:52:45 - DCARD - INFO: - 發送email
+2020-08-04 15:52:53 - DCARD - INFO: - Send mails to afly.bsky@yahoo.com.tw
+2020-08-04 15:52:53 - DCARD - INFO: - 寄信成功
+2020-08-04 16:09:54 - DCARD - INFO: - logger已啟動
+2020-08-04 16:09:54 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 16:09:54 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 16:11:16 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 16:11:25 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 16:11:25 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 16:11:29 - DCARD - ERROR: - (<class 'NameError'>, NameError("name 'logger' is not defined",), <traceback object at 0x000001C020E16E48>)
+2020-08-04 16:11:29 - DCARD - ERROR: - 92
+2020-08-04 16:11:29 - DCARD - ERROR: - name 'logger' is not defined
+2020-08-04 16:13:28 - DCARD - INFO: - logger已啟動
+2020-08-04 16:13:28 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 16:13:28 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 16:13:44 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 16:13:45 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 16:13:45 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 16:14:04 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 16:32:25 - DCARD - INFO: - logger已啟動
+2020-08-04 16:32:25 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 16:32:25 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 16:32:38 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 16:32:39 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 16:32:39 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 16:32:39 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 16:33:22 - DCARD - ERROR: - (<class 'NameError'>, NameError("name 'np' is not defined",), <traceback object at 0x00000168BD2D5D48>)
+2020-08-04 16:33:22 - DCARD - ERROR: - 114
+2020-08-04 16:33:22 - DCARD - ERROR: - name 'np' is not defined
+2020-08-04 16:34:09 - DCARD - INFO: - logger已啟動
+2020-08-04 16:34:09 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 16:34:09 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 16:34:24 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 16:34:24 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 16:34:24 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 16:34:24 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 16:34:59 - DCARD - INFO: - 已重複抽卡
+2020-08-04 16:36:52 - DCARD - INFO: - logger已啟動
+2020-08-04 16:36:52 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 16:36:52 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 16:37:04 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 16:37:19 - DCARD - ERROR: - (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, None), <traceback object at 0x0000025E126464C8>)
+2020-08-04 16:37:19 - DCARD - ERROR: - 98
+2020-08-04 16:37:19 - DCARD - ERROR: - Message: 
+
+2020-08-04 16:37:36 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 16:37:37 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 16:37:37 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 16:37:37 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 16:37:46 - DCARD - ERROR: - (<class 'NameError'>, NameError("name 'opencvImage' is not defined",), <traceback object at 0x0000025E13743E48>)
+2020-08-04 16:37:46 - DCARD - ERROR: - 117
+2020-08-04 16:37:46 - DCARD - ERROR: - name 'opencvImage' is not defined
+2020-08-04 16:38:01 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 16:38:02 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 16:38:02 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 16:38:02 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 16:38:27 - DCARD - INFO: - logger已啟動
+2020-08-04 16:38:27 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 16:38:27 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 16:38:39 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 16:38:40 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 16:38:40 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 16:38:40 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 16:41:17 - DCARD - INFO: - logger已啟動
+2020-08-04 16:41:17 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 16:41:17 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 16:41:36 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 16:41:36 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 16:41:36 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 16:41:36 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 16:43:33 - DCARD - INFO: - Predict Score : 59.298834800720215
+2020-08-04 16:44:02 - DCARD - INFO: - 已重複抽卡
+2020-08-04 16:44:29 - DCARD - INFO: - 無新卡友
+2020-08-04 16:44:29 - DCARD - INFO: - 切至收件閘
+2020-08-04 16:45:51 - DCARD - INFO: - 發送email
+2020-08-04 16:45:57 - DCARD - INFO: - Send mails to afly.bsky@yahoo.com.tw
+2020-08-04 16:45:58 - DCARD - INFO: - 寄信成功
+2020-08-04 16:55:49 - DCARD - INFO: - logger已啟動
+2020-08-04 16:55:49 - DCARD - INFO: - 檢查登入文件:True
+2020-08-04 16:55:49 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-04 16:56:00 - DCARD - INFO: - 前往抽卡頁面
+2020-08-04 16:56:01 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/6091d25b-2bc2-4677-b527-f828cf368bf0
+2020-08-04 16:56:01 - DCARD - INFO: - 國立暨南國際大學	-	觀光休閒與餐旅管理學系 女同學
+2020-08-04 16:56:01 - DCARD - INFO: - DCARD/Image/2020-08-04/
+2020-08-04 16:56:44 - DCARD - INFO: - Predict Score : 59.298834800720215
+2020-08-04 16:56:45 - DCARD - INFO: - 已重複抽卡
+2020-08-04 16:57:15 - DCARD - INFO: - 無新卡友
+2020-08-04 16:57:15 - DCARD - INFO: - 切至收件閘
+2020-08-04 16:57:53 - DCARD - INFO: - 發送email
+2020-08-04 16:58:06 - DCARD - INFO: - Send mails to afly.bsky@yahoo.com.tw
+2020-08-04 16:58:09 - DCARD - INFO: - 寄信成功

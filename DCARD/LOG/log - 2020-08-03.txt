@@ -1,0 +1,145 @@
+2020-08-03 22:14:24 - DCARD - INFO: - logger已啟動
+2020-08-03 22:14:24 - DCARD - INFO: - 檢查登入文件:False
+2020-08-03 22:14:24 - DCARD - INFO: - 找不到登入文件:DCARD_INFO.txt
+2020-08-03 22:14:24 - DCARD - INFO: - logger已關閉
+2020-08-03 22:15:02 - DCARD - INFO: - logger已啟動
+2020-08-03 22:15:02 - DCARD - INFO: - 檢查登入文件:True
+2020-08-03 22:15:02 - DCARD - INFO: - D:\WorkSpace\jupyter\DCARD\DCARD_INFO.txt
+2020-08-03 22:15:02 - DCARD - INFO: - logger已關閉
+2020-08-03 22:16:56 - DCARD - INFO: - logger已啟動
+2020-08-03 22:16:56 - DCARD - INFO: - 檢查登入文件:True
+2020-08-03 22:16:56 - DCARD - INFO: - D:\WorkSpace\jupyter\DCARD\DCARD_INFO.txt
+2020-08-03 22:18:49 - DCARD - ERROR: - (<class 'selenium.common.exceptions.WebDriverException'>, WebDriverException('unknown error: cannot determine loading status\nfrom unknown error: unknown sessionId\n  (Session info: chrome=84.0.4147.105)\n  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.18363 x86_64)', None, None), <traceback object at 0x000002E6E52AE5C8>)
+2020-08-03 22:18:49 - DCARD - ERROR: - 175
+2020-08-03 22:18:49 - DCARD - ERROR: - Message: unknown error: cannot determine loading status
+from unknown error: unknown sessionId
+  (Session info: chrome=84.0.4147.105)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.18363 x86_64)
+
+2020-08-03 22:19:19 - DCARD - ERROR: - (<class 'selenium.common.exceptions.WebDriverException'>, WebDriverException('unknown error: cannot determine loading status\nfrom unknown error: unknown sessionId\n  (Session info: chrome=84.0.4147.105)\n  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.18363 x86_64)', None, None), <traceback object at 0x000002E6E52C2988>)
+2020-08-03 22:19:19 - DCARD - ERROR: - 175
+2020-08-03 22:19:19 - DCARD - ERROR: - Message: unknown error: cannot determine loading status
+from unknown error: unknown sessionId
+  (Session info: chrome=84.0.4147.105)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.18363 x86_64)
+
+2020-08-03 22:19:58 - DCARD - ERROR: - (<class 'selenium.common.exceptions.WebDriverException'>, WebDriverException('unknown error: cannot determine loading status\nfrom unknown error: unknown sessionId\n  (Session info: chrome=84.0.4147.105)\n  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.18363 x86_64)', None, None), <traceback object at 0x000002E6E52CB388>)
+2020-08-03 22:19:58 - DCARD - ERROR: - 175
+2020-08-03 22:19:58 - DCARD - ERROR: - Message: unknown error: cannot determine loading status
+from unknown error: unknown sessionId
+  (Session info: chrome=84.0.4147.105)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.18363 x86_64)
+
+2020-08-03 22:21:53 - DCARD - INFO: - logger已啟動
+2020-08-03 22:21:53 - DCARD - INFO: - 檢查登入文件:True
+2020-08-03 22:21:53 - DCARD - INFO: - D:\WorkSpace\jupyter\DCARD\DCARD_INFO.txt
+2020-08-03 22:22:09 - DCARD - ERROR: - (<class 'selenium.common.exceptions.WebDriverException'>, WebDriverException('unknown error: cannot determine loading status\nfrom unknown error: unknown sessionId\n  (Session info: chrome=84.0.4147.105)\n  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.18363 x86_64)', None, None), <traceback object at 0x0000028ECCC017C8>)
+2020-08-03 22:22:09 - DCARD - ERROR: - 175
+2020-08-03 22:22:09 - DCARD - ERROR: - Message: unknown error: cannot determine loading status
+from unknown error: unknown sessionId
+  (Session info: chrome=84.0.4147.105)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.18363 x86_64)
+
+2020-08-03 22:23:04 - DCARD - ERROR: - (<class 'selenium.common.exceptions.WebDriverException'>, WebDriverException('unknown error: cannot determine loading status\nfrom unknown error: unknown sessionId\n  (Session info: chrome=84.0.4147.105)\n  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.18363 x86_64)', None, None), <traceback object at 0x0000028ECCC4B0C8>)
+2020-08-03 22:23:04 - DCARD - ERROR: - 175
+2020-08-03 22:23:05 - DCARD - ERROR: - Message: unknown error: cannot determine loading status
+from unknown error: unknown sessionId
+  (Session info: chrome=84.0.4147.105)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.18363 x86_64)
+
+2020-08-03 22:27:31 - DCARD - INFO: - logger已啟動
+2020-08-03 22:27:31 - DCARD - INFO: - 檢查登入文件:True
+2020-08-03 22:27:31 - DCARD - INFO: - D:\WorkSpace\jupyter\DCARD\DCARD_INFO.txt
+2020-08-03 22:29:14 - DCARD - INFO: - logger已啟動
+2020-08-03 22:29:14 - DCARD - INFO: - 檢查登入文件:True
+2020-08-03 22:29:14 - DCARD - INFO: - D:\WorkSpace\jupyter\DCARD\DCARD_INFO.txt
+2020-08-03 22:30:52 - DCARD - INFO: - logger已啟動
+2020-08-03 22:30:52 - DCARD - INFO: - 檢查登入文件:True
+2020-08-03 22:30:52 - DCARD - INFO: - D:\WorkSpace\jupyter\DCARD\DCARD_INFO.txt
+2020-08-03 22:32:46 - DCARD - INFO: - logger已啟動
+2020-08-03 22:32:46 - DCARD - INFO: - 檢查登入文件:True
+2020-08-03 22:32:46 - DCARD - INFO: - D:\WorkSpace\jupyter\DCARD\DCARD_INFO.txt
+2020-08-03 22:34:10 - DCARD - INFO: - logger已啟動
+2020-08-03 22:34:10 - DCARD - INFO: - 檢查登入文件:True
+2020-08-03 22:34:10 - DCARD - INFO: - D:\WorkSpace\jupyter\DCARD\DCARD_INFO.txt
+2020-08-03 22:34:47 - DCARD - INFO: - 前往抽卡頁面
+2020-08-03 22:36:15 - DCARD - INFO: - logger已啟動
+2020-08-03 22:36:15 - DCARD - INFO: - 檢查登入文件:True
+2020-08-03 22:36:15 - DCARD - INFO: - D:\WorkSpace\jupyter\DCARD\DCARD_INFO.txt
+2020-08-03 22:36:27 - DCARD - INFO: - 前往抽卡頁面
+2020-08-03 22:36:34 - DCARD - ERROR: - (<class 'selenium.common.exceptions.TimeoutException'>, TimeoutException('', None, None), <traceback object at 0x000002221BDF5208>)
+2020-08-03 22:36:34 - DCARD - ERROR: - 203
+2020-08-03 22:36:34 - DCARD - ERROR: - Message: 
+
+2020-08-03 22:37:03 - DCARD - INFO: - logger已啟動
+2020-08-03 22:37:03 - DCARD - INFO: - 檢查登入文件:True
+2020-08-03 22:37:03 - DCARD - INFO: - D:\WorkSpace\jupyter\DCARD\DCARD_INFO.txt
+2020-08-03 22:37:15 - DCARD - INFO: - 前往抽卡頁面
+2020-08-03 22:38:11 - DCARD - INFO: - logger已啟動
+2020-08-03 22:38:11 - DCARD - INFO: - 檢查登入文件:True
+2020-08-03 22:38:11 - DCARD - INFO: - D:\WorkSpace\jupyter\DCARD\DCARD_INFO.txt
+2020-08-03 22:38:23 - DCARD - INFO: - 前往抽卡頁面
+2020-08-03 22:40:38 - DCARD - INFO: - logger已啟動
+2020-08-03 22:40:38 - DCARD - INFO: - 檢查登入文件:True
+2020-08-03 22:40:38 - DCARD - INFO: - D:\WorkSpace\jupyter\DCARD\DCARD_INFO.txt
+2020-08-03 22:40:49 - DCARD - INFO: - 前往抽卡頁面
+2020-08-03 22:41:09 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/a896c2d9-acf8-43dc-a36f-cb47122a1862
+2020-08-03 22:41:09 - DCARD - INFO: - 國立臺北護理健康大學	-	生死與健康心理諮商系 女同學
+2020-08-03 22:41:11 - DCARD - ERROR: - 97
+2020-08-03 22:41:11 - DCARD - ERROR: - name 'Image' is not defined
+2020-08-03 22:41:11 - DCARD - ERROR: - (<class 'TypeError'>, TypeError("'NoneType' object is not iterable",), <traceback object at 0x000002094A7BB148>)
+2020-08-03 22:41:11 - DCARD - ERROR: - 224
+2020-08-03 22:41:11 - DCARD - ERROR: - 'NoneType' object is not iterable
+2020-08-03 22:41:22 - DCARD - INFO: - 前往抽卡頁面
+2020-08-03 22:41:23 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/a896c2d9-acf8-43dc-a36f-cb47122a1862
+2020-08-03 22:41:23 - DCARD - INFO: - 國立臺北護理健康大學	-	生死與健康心理諮商系 女同學
+2020-08-03 23:39:15 - DCARD - INFO: - logger已啟動
+2020-08-03 23:39:15 - DCARD - INFO: - 檢查登入文件:True
+2020-08-03 23:39:15 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-03 23:39:26 - DCARD - INFO: - 前往抽卡頁面
+2020-08-03 23:39:27 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/a896c2d9-acf8-43dc-a36f-cb47122a1862
+2020-08-03 23:39:27 - DCARD - INFO: - 國立臺北護理健康大學	-	生死與健康心理諮商系 女同學
+2020-08-03 23:39:27 - DCARD - INFO: - DCARD/Image/2020-08-03/
+2020-08-03 23:39:27 - DCARD - INFO: - create folder
+2020-08-03 23:44:10 - DCARD - INFO: - logger已啟動
+2020-08-03 23:44:10 - DCARD - INFO: - 檢查登入文件:True
+2020-08-03 23:44:10 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-03 23:44:21 - DCARD - INFO: - 前往抽卡頁面
+2020-08-03 23:44:21 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/a896c2d9-acf8-43dc-a36f-cb47122a1862
+2020-08-03 23:44:21 - DCARD - INFO: - 國立臺北護理健康大學	-	生死與健康心理諮商系 女同學
+2020-08-03 23:44:21 - DCARD - INFO: - DCARD/Image/2020-08-03/
+2020-08-03 23:46:56 - DCARD - INFO: - logger已啟動
+2020-08-03 23:46:56 - DCARD - INFO: - 檢查登入文件:True
+2020-08-03 23:46:56 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-03 23:47:08 - DCARD - INFO: - 前往抽卡頁面
+2020-08-03 23:47:08 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/a896c2d9-acf8-43dc-a36f-cb47122a1862
+2020-08-03 23:47:08 - DCARD - INFO: - 國立臺北護理健康大學	-	生死與健康心理諮商系 女同學
+2020-08-03 23:47:08 - DCARD - INFO: - DCARD/Image/2020-08-03/
+2020-08-03 23:48:06 - DCARD - INFO: - logger已啟動
+2020-08-03 23:48:06 - DCARD - INFO: - 檢查登入文件:True
+2020-08-03 23:48:06 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-03 23:48:17 - DCARD - INFO: - 前往抽卡頁面
+2020-08-03 23:48:18 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/a896c2d9-acf8-43dc-a36f-cb47122a1862
+2020-08-03 23:48:18 - DCARD - INFO: - 國立臺北護理健康大學	-	生死與健康心理諮商系 女同學
+2020-08-03 23:48:18 - DCARD - INFO: - DCARD/Image/2020-08-03/
+2020-08-03 23:50:02 - DCARD - INFO: - logger已啟動
+2020-08-03 23:50:02 - DCARD - INFO: - 檢查登入文件:True
+2020-08-03 23:50:02 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-03 23:50:13 - DCARD - INFO: - 前往抽卡頁面
+2020-08-03 23:50:14 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/a896c2d9-acf8-43dc-a36f-cb47122a1862
+2020-08-03 23:50:14 - DCARD - INFO: - 國立臺北護理健康大學	-	生死與健康心理諮商系 女同學
+2020-08-03 23:50:14 - DCARD - INFO: - DCARD/Image/2020-08-03/
+2020-08-03 23:53:11 - DCARD - INFO: - logger已啟動
+2020-08-03 23:53:11 - DCARD - INFO: - 檢查登入文件:True
+2020-08-03 23:53:11 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-03 23:53:23 - DCARD - INFO: - 前往抽卡頁面
+2020-08-03 23:53:24 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/a896c2d9-acf8-43dc-a36f-cb47122a1862
+2020-08-03 23:53:24 - DCARD - INFO: - 國立臺北護理健康大學	-	生死與健康心理諮商系 女同學
+2020-08-03 23:53:24 - DCARD - INFO: - DCARD/Image/2020-08-03/
+2020-08-03 23:55:48 - DCARD - INFO: - logger已啟動
+2020-08-03 23:55:48 - DCARD - INFO: - 檢查登入文件:True
+2020-08-03 23:55:48 - DCARD - INFO: - D:\WorkSpace\jupyter\AUTO_DCARD\DCARD_INFO.txt
+2020-08-03 23:56:00 - DCARD - INFO: - 前往抽卡頁面
+2020-08-03 23:56:00 - DCARD - INFO: - https://photos.dcard.tw/memberPhotos/a896c2d9-acf8-43dc-a36f-cb47122a1862
+2020-08-03 23:56:00 - DCARD - INFO: - 國立臺北護理健康大學	-	生死與健康心理諮商系 女同學
+2020-08-03 23:56:00 - DCARD - INFO: - DCARD/Image/2020-08-03/
